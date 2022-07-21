@@ -14,7 +14,7 @@ const anthony = {
     askMeAbout: ["web dev", "tech", "the office", "simon sinek"],
     technologies: {
         frontEnd: {
-            js: ["jQuery", "React"],
+            js: ["jQuery"],
             css: ["bootstrap"]
         },
         backEnd: {
@@ -24,7 +24,7 @@ const anthony = {
         },
         databases: ["MSSQL"]
     },
-    currentlyLearning: ["django", "flask", "React"],
+    currentlyLearning: ["django", "flask"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
